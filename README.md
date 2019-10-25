@@ -1,2 +1,2 @@
-- Learned Angular 2 framework to build a basic front-end web application.
-- Practiced SQL server database and made a standard web API to connect databsed with the front-end.
+- Learned Angular 2 framework to build basic front-end web applications.
+- Practiced SQL server database and made a standard web API to connect database with the front-end.
